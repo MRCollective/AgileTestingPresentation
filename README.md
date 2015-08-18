@@ -10,5 +10,4 @@ Agile Testing
 Description
 -----------
 
-Based on my experiences developing a testing strategy based on common sense and embracing the Agile principles of simplicity and continuous improvement as well as covering where I see the tester role fitting in with an Agile/DevOps team.
-
+Based on our experience developing a testing strategy based on common sense and embracing the Agile principles of simplicity and continuous improvement as well as covering where we see the tester role fitting in with an Agile/DevOps team.
